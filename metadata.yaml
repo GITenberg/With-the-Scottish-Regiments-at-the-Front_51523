@@ -1,0 +1,26 @@
+_repo: With-the-Scottish-Regiments-at-the-Front_51523
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vivian, Evelyn Charles
+    alias: Vivian, E. Charles (Evelyn Charles)
+    birthdate: 1882
+    deathdate: 1947
+    gutenberg_agent_id: '453'
+    url: http://www.gutenberg.org/2009/agents/453
+description: ''
+gutenberg_issued: '2016-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51523'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Regimental histories -- Scotland'
+- !lcsh 'Great Britain. Army -- Scottish regiments'
+- GITenberg
+title: With the Scottish Regiments at the Front
+url: http://www.gutenberg.org/ebooks/51523
